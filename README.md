@@ -21,14 +21,14 @@ It's a time tracker
 
 ## Tables
 
-| project                  | task                      |     |
-| ------------------------ | ------------------------- | --- |
-| id                       | id                        |     |
-| create at                | create at                 |     |
-| title                    | title                     |     |
-| description              | description               |     |
-| period (months or weeks) | period (day (maybe))      |     |
-| done                     | done                      |
+| project                               | task                      |     |
+| ------------------------------------- | ------------------------- | --- |
+| id                                    | id                        |     |
+| create at                             | create at                 |     |
+| title                                 | title                     |     |
+| description                           | description               |     |
+| period (months or weeks)              | period (day (maybe))      |     |
+| done                                  | done                      |
 | head project (optional)  `foreignkey` | type [todo, daily, habit] |     |
-|                          | project id `foreignkey`   |     |
-|                          | entry id `foreignkey`     |     |
+|                                       | project id `foreignkey`   |     |
+|                                       | entry id `foreignkey`     |     |

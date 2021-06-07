@@ -1,5 +1,4 @@
 # todo
 
-- [x] faire squelette du readme.md
-- [x] faire les tables dans le readme
-- [ ] push sur github
+- [x] continuer crea models
+- [ ] faire esquisse du timer + projets
